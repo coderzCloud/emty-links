@@ -1,0 +1,4 @@
+/* Highlight empty links with yellow outline inside designer */
+html.wf-design-mode [href="#"] {
+outline: 3px solid yellow !important;
+}
